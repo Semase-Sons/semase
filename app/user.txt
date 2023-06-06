@@ -1,0 +1,5 @@
+safiya:x:1004:1004::/home/safiya:/bin/bash
+nginx:x:992:992:Nginx web server:/var/lib/nginx:/sbin/nologin
+Madiha:x:1005:1009::/home/Madiha:/bin/bash
+Jamila:x:1006:1010::/home/Jamila:/bin/bash
+zaiyan:x:1007:1011::/home/zaiyan:/bin/bash
